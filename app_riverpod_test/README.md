@@ -6,7 +6,9 @@ A new Flutter project.
 
 https://www.youtube.com/watch?v=J2iFYZUabVM
 https://codewithandrea.com/articles/flutter-state-management-riverpod/
+
 https://www.youtube.com/watch?v=vrPk6LB9bjo
+https://www.youtube.com/watch?v=LnpGU8vj7TI
 
 
 This project is a starting point for a Flutter application.
