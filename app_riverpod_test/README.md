@@ -6,13 +6,13 @@ A new Flutter project.
 
 ### Риверпод
 
-[https://www.youtube.com/watch?v=J2iFYZUabVM]
-[https://codewithandrea.com/articles/flutter-state-management-riverpod/]
+* [https://www.youtube.com/watch?v=J2iFYZUabVM]
+* [https://codewithandrea.com/articles/flutter-state-management-riverpod/]
 
 ### Пример
 
-[https://www.youtube.com/watch?v=vrPk6LB9bjo]
-[https://www.youtube.com/watch?v=LnpGU8vj7TI]
+* [https://www.youtube.com/watch?v=vrPk6LB9bjo]
+* [https://www.youtube.com/watch?v=LnpGU8vj7TI]
 
 
 This project is a starting point for a Flutter application.
