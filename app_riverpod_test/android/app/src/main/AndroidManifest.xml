@@ -2,7 +2,6 @@
     package="com.example.app_riverpod_test">
    <application
         android:label="app_riverpod_test"
-        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
